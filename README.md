@@ -1,7 +1,8 @@
 # 📊 Cleaning & Visualizing Data Workshop  
 **Transforming raw data into meaningful insights**  
-📅 Held: October 19, 2023 | Hosted by **Baruch AIS DATA SCIENCE COMMITTEE**  
+📅 Held: October 19, 2023 | Hosted by the Data Science Director (2024) Daria Khotunitskaya
 
+Video Link: https://www.youtube.com/watch?v=ZbMX2n8dx2k
 ---
 
 ## 📌 Workshop Overview  
