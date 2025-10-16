@@ -1,6 +1,6 @@
 # 📊 Cleaning & Visualizing Data Workshop  
 **Transforming raw data into meaningful insights**  
-📅 Held: October 19, 2023 | Hosted by the Data Science Director (2024) Daria Khotunitskaya
+📅 Held: October 19, 2023 | Hosted by the Data Science Director(2023) Daria Khotunitskaya
 
 Video Link: https://www.youtube.com/watch?v=ZbMX2n8dx2k
 ---
